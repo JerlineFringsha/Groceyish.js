@@ -1,0 +1,28 @@
+[
+    {
+      "name": "Tomato",
+      "price": 2.99,
+      "image": "tomato.png"
+    },
+    {
+      "name": "Potato",
+      "price": 1.49,
+      "image": "potato.png"
+    },
+    {
+      "name": "Carrot",
+      "price": 3.29,
+      "image": "bro.png"
+    },
+    {
+      "name": "Cucumber",
+      "price": 1.99,
+      "image": "cucumber.png"
+    },
+    {
+        "name": "Cucumber",
+        "price": 1.99,
+        "image": "cherry.png"
+      }
+  ]
+  
